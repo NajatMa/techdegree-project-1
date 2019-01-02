@@ -57,7 +57,7 @@ a:hover {
 
 header {
   text-align: center;
-  background: url('images/wallhaven-50084.jpg') no-repeat top center ;
+  background: url('images/wall50084.jpg') no-repeat top center ;
   background-size: cover;
   overflow: hidden;
   padding-top: 60px;
@@ -188,6 +188,13 @@ a.social:hover {
     padding: 0 30px;
   }
 
+  .para-image{
+    background-image: url("images/new-image.jpg");
+    background-size: cover;
+    overflow: hidden;
+    padding-top: 20px;
+    color: white;
+  }
 
   main {
     padding-top: 20px;
