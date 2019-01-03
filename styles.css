@@ -20,6 +20,9 @@ a {
 a:hover {
   color: #6633ff;
 }
+a:focus{
+  color:white;
+}
 
 /* Section Styles */
 
